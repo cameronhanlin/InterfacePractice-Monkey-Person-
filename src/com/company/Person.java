@@ -6,7 +6,6 @@ public class Person implements Danceable{
 
     public Person(String name){
         this.name = name;
-
     }
 
     @Override
